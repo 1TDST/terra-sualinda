@@ -1,0 +1,19 @@
+body {
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  color: #444;
+}
+
+#container {
+  max-width: 1128px;
+}
+
+a {
+  color: #00ccff;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+p {
+  font-size: 20px;
+}

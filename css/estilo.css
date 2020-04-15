@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400&display=swap');
+
 body{
   font-size: 12px;
-  font-family: 'Helvetica Neue';
+  font-family: 'Manrope';
   color: #444;
 }
 
@@ -37,7 +39,7 @@ img{
   float: left;
 }
 
-.menu{
+.menu li{
   float: right;
   display: inline;
   font-size: 14px;

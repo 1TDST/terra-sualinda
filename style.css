@@ -1,0 +1,100 @@
+body {
+    font-size: 12px;
+    font-family: Helvetica Neue, Helvetica, Arial;
+    color: #444;
+}
+
+.container {
+    max-width: 1128px;
+}
+
+a {
+    color: #00ccff;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+    font-size: 20px;
+}
+
+.cabecalho {
+    max-width: 100%;
+    height: 48px;
+    margin: 40px 0;
+}
+
+.cabecalho .logo {
+    float: left;
+}
+
+.cabecalho .menu {
+    float: right;
+}
+
+.cabecalho .menu ul {
+    display: flex;
+    list-style: none;
+}
+
+.cabecalho .menu ul li {
+    font-size: 14px;
+    margin-left: 24px;
+    margin-top: 12px;
+    font-size: 20px;
+    color: #999;
+}
+
+.banner {
+    height: 450px;
+    margin-bottom: 55px;
+    position: relative;
+}
+
+.banner .box {
+    width: 480px;
+    padding: 30px 48px;
+    position: absolute;
+    top: 180px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.banner .box h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 48px;
+    font-weight: 200;
+    color: #fff;
+}
+
+.banner .box p {
+    font-size: 20px;
+    color: #fff;
+}
+
+footer {
+    width: 100%;
+    margin: 30px 0;
+    font-size: 30px;
+    float: left;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+footer small {
+    font-size: 18px;
+}
+
+footer a {
+    font-size: 15px;
+} 

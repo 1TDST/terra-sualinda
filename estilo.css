@@ -4,7 +4,7 @@ body {
     color: #444;
 }
 
-#container {
+.container {
     max-width: 1128px;
 }
 
@@ -26,18 +26,18 @@ img {
     max-width: 100%;
 }
 
-#cabecalho {
+.cabecalho {
     width: 100%;
     height: 48px;
     margin-top: 40px;
     margin-bottom: 40px;
 }
 
-#logo {
+.logo {
     float: left;
 }
 
-#menu {
+.menu {
     float: right;
 }
 
@@ -55,20 +55,20 @@ li:a {
     color: #999;
 }
 
-#banner {
+.banner {
     height: 450px;
     margin-bottom: 55px;
     position: relative;
 }
 
-#box {
+.box {
     width: 480px;
     padding: 30px 48px 30px 48px;
     position: absolute;
     background-color: rgba(0, 0, 0, 0.6);
 }
 
-#box:p {
+.box:p {
     font-size: 20px;
     color: #fff;
 }
@@ -81,17 +81,17 @@ h1 {
     color: #fff;
 }
 
-#footer {
+.footer {
     width: 100%;
     margin: 30px 0 30px 0;
     float: left;
     font-size: 30px;
 }
 
-#footer:p {
+.footer:p {
     margin-bottom: 0;
 }
 
-#footer:small {
+.footer:small {
     font-size: 18px;
 }
